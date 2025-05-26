@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/assets/Prashanth_Resume.pdf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"Prashanth_Resume.pdf\""
+        }
+      ]
+    }
+  ]
+}
